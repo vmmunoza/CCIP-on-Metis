@@ -7,6 +7,8 @@ import {Client} from "@chainlink/contracts-ccip@1.4.0/src/v0.8/ccip/libraries/Cl
 import {LinkTokenInterface} from "@chainlink/contracts@1.2.0/src/v0.8/shared/interfaces/LinkTokenInterface.sol";
 
 /**
+ * --- CODE FROM CHAINLINK EXAMPLE! ---
+ * https://docs.chain.link/ccip/getting-started
  * THIS IS AN EXAMPLE CONTRACT THAT USES HARDCODED VALUES FOR CLARITY.
  * THIS IS AN EXAMPLE CONTRACT THAT USES UN-AUDITED CODE.
  * DO NOT USE THIS CODE IN PRODUCTION.
