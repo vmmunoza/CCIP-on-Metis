@@ -2,8 +2,11 @@
 
 This project demonstrates how to use Chainlink's Cross-Chain Interoperability Protocol (CCIP) to send a message from a smart contract deployed on the Metis Sepolia testnet to another smart contract on the Ethereum Sepolia testnet. 
 
+___
 The code is fully based on the getting started section : https://docs.chain.link/ccip/getting-started
+
 But adapted for Metis chain.
+___
 
 ## Prerequisites
 
